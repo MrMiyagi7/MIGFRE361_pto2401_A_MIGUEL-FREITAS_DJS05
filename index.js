@@ -4,3 +4,6 @@ import store from "./store.js";
 const logState = () => {
   console.log(`Current state: ${store.getState()}`);
 };
+
+// Initial log of the current state
+logState();
