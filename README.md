@@ -11,7 +11,7 @@ To run this project, follow these steps:
 ### Clone the Repository
 
 ```
-git clone [repository-url]
+git clone [https://github.com/MrMiyagi7/MIGFRE361_pto2401_A_MIGUEL-FREITAS_DJS05.git]
 cd tally-app
 
 ```
