@@ -13,3 +13,9 @@ const tallyReducer = (state = initialcount, action) => {
       return state;
   }
 };
+
+// Create the Redux store
+const store = Redux.createStore(tallyReducer);
+
+// Export the store to be used in other files
+export default store;
