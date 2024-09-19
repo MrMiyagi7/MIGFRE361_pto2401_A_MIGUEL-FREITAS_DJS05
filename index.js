@@ -7,3 +7,6 @@ const logState = () => {
 
 // Initial log of the current state
 logState();
+
+// Subscribe to store updates to log state changes whenever the state changes
+store.subscribe(logState);
