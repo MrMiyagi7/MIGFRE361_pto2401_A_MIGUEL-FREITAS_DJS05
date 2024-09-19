@@ -21,8 +21,7 @@ cd tally-app
 Simply open the index.html file in a web browser.
 
 ```
-html
-Copy code
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
